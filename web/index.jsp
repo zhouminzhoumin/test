@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Titl88e$</title>
+    <title>$Titl8988e$</title>
   </head>
   <body>
   $END$
